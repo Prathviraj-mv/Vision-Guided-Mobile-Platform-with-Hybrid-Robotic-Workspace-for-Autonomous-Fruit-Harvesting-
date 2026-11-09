@@ -1,0 +1,13 @@
+# Computer Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+onnxruntime>=1.16.0
+
+# GUI and Visualization
+pygame>=2.5.0
+
+# Hardware Communication
+pyserial>=3.5
+
+# Networking
+requests>=2.31.0

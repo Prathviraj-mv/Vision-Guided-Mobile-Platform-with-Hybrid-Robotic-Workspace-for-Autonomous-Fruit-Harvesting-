@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Model files (large binary files)
+# Uncomment if you want to exclude large model files
+# models/*.onnx
+# models/*.pt
+# models/*.pth
+
+# Arduino
+arduino/*.build/
+arduino/*.userprefs
+arduino/.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
