@@ -19,7 +19,10 @@ The Autonomous Fruit Harvesting Robot is designed to automatically detect and ha
 
 ### Robot Build
 
-![Robot Build](images/WhatsApp%20Image%202026-11-07%20at%2019.57.14%20(3).jpeg)
+
+<p>
+  <img src="images/WhatsApp Image 2026-11-07 at 19.57.15 (3).jpeg">
+</p>
 
 ![Robot Build Detail](images/WhatsApp%20Image%202026-11-07%20at%2019.57.15%20(2).jpeg)
 
